@@ -1,0 +1,11 @@
+# FastMCP Agriculture Server Requirements
+fastmcp>=2.11.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=0.19.0
+httpx>=0.23.0
+pytest>=6.2.5
+
+# Optional: For advanced features (to be added in later phases)
+# sqlalchemy>=1.4.0 (if we add database functionality)
+# requests>=2.26.0 (legacy support if needed)

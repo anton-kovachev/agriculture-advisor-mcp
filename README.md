@@ -23,7 +23,7 @@ Install ngrok and route it to port 8000 via http and obtain an ngrok url
 
 ### Install Claude Code
 
-Install Claude Code AI agent and attach the MCP server to it with the following command 
+Install Anthropic's Claude Code AI agent and attach the MCP server to it with the following command 
 claude mcp add --transport http agriculture-advisor {ngrok_url}
 
 ### Open Claude

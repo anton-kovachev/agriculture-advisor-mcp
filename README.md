@@ -1,5 +1,6 @@
-_# agriculture-advisor-mcp
-An MCP server that turns yor AI agent into a corn and wheat farming specialist.
+# agriculture-advisor-mcp
+
+An MCP server that turns your AI agent into a corn and wheat farming specialist. The MCP server is written in Python with the help of FAST MCP
 
 To set it up and running first in the main project directory add an .env file with the following keys
 

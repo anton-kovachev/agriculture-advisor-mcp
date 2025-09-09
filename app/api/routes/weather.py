@@ -12,6 +12,7 @@ from app.core.services.weather_service import WeatherService
 def get_weather_service():
     return WeatherService()
 
+
 router = APIRouter(
     prefix="/weather",
     tags=["weather"],
